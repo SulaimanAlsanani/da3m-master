@@ -1,0 +1,8 @@
+<svg id="vuesax_bulk_flag" data-name="vuesax/bulk/flag" xmlns="http://www.w3.org/2000/svg" width="44.977" height="44.977" viewBox="0 0 44.977 44.977">
+  <g id="flag">
+    <path id="Vector" d="M0,34.669V0" transform="translate(9.651 5.154)" fill="#ee0028"/>
+    <path id="Vector-2" data-name="Vector" d="M1.406,37.48A1.416,1.416,0,0,1,0,36.075V1.406A1.416,1.416,0,0,1,1.406,0,1.416,1.416,0,0,1,2.811,1.406V36.075A1.416,1.416,0,0,1,1.406,37.48Z" transform="translate(8.246 3.748)" fill="#ee0028"/>
+    <path id="Vector-3" data-name="Vector" d="M24.831,16.341l-2.286-2.286a2.605,2.605,0,0,1-.881-1.93,3.093,3.093,0,0,1,.918-2.305l2.249-2.249c1.949-1.949,2.68-3.823,2.061-5.3C26.293.806,24.437,0,21.7,0H.712A.741.741,0,0,0,0,.731V23.219a.712.712,0,0,0,.712.712H21.7c2.7,0,4.516-.825,5.135-2.305C27.454,20.127,26.742,18.272,24.831,16.341Z" transform="translate(8.939 6.765)" fill="#ee0028" opacity="0.4"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H44.977V44.977H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

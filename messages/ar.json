@@ -1,0 +1,498 @@
+{
+  "navbar": {
+    "homeLink": "الرئيسية",
+    "aboutUs": "عن الفندق",
+    "services": "خدماتنا",
+    "news": "الاخبار",
+    "listYourPoperty": "اضافة عقار",
+    "rent": "ايجار",
+    "offPlan": "تحت الانشاء",
+    "readyToMove": "جاهز للانتقال",
+    "english": "الانجليزية",
+    "arabic": "العربية",
+    "faqs": "الاسئلة الشائعة",
+    "contactUs": "تواصل معنا",
+    "languageText": "الانجليزية",
+    "login": "تسجيل الدخول",
+    "sections": "الأقسام",
+    "ads": "الإعلانات",
+    "search": "ابحث",
+    "close": "إغلاق",
+    "profile": "البروفايل الشخصي",
+    "addAd": "إضافة إعلان جديد",
+    "adList": "قائمة إعلاناتي",
+    "bankAccount": "الحساب البنكي",
+    "wallet": "المحفظة",
+    "notifications": "الإشعارات",
+    "logout": "تسجيل الخروج"
+  },
+  "verify":{
+ "title": "رمز التحقق",
+  "subtitle": "تم إرسال رمز التحقق إلى  البريد الالكتروني الذي قمت بكتابته",
+  "emailLabel": "البريد الإلكتروني",
+
+  "button": "تحقق",
+  "notReceived": "لم يتم إرسال الرمز إليك؟",
+  "resend": "أرسل الكود مرة أخرى"
+  },
+  "navigation": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "contact": "اتصل بنا"
+  },
+  "common": {
+    "loading": "جاري التحميل",
+    "error": "حدث خطأ",
+    "success": "تم بنجاح"
+  },
+  "error": {
+    "pageNotFound": "الصفحة غير موجودة",
+    "pageNotFoundDesc": "عذراً، الصفحة التي تبحث عنها غير موجودة",
+    "backHome": "العودة للرئيسية",
+    "error": "حدث خطأ",
+    "errorDesc": "عذراً، حدث خطأ ما. يرجى المحاولة مرة أخرى",
+    "tryAgain": "حاول مرة أخرى"
+  },
+
+  "footer": {
+    "copyright": "جميع الحقوق محفوظة © 2025 دعم الوطن.",
+    "contact_us": "راسلنا أو اتصل بنا",
+    "via_phone": "عبر رقم الجوال",
+    "phone_number": "+966 51200154892",
+    "via_email": "عبر البريد الإلكتروني",
+    "email_address": "info@daamelwatan.com",
+    "important_links": "روابط هامة",
+    "sections": "الأقسام",
+    "ads": "الإعلانات",
+    "join_us": "إنضم لنا",
+    "privacy_policy": "سياسة الخصوصية",
+    "services": "خدماتنا",
+    "get_in_touch": "تواصل معنا",
+    "social_media": "وسائل التواصل الاجتماعي"
+  },
+  "home": {
+    "hero": {
+      "title": "اكتشف رفاهية الإقامة في درة طيبة",
+      "description": "استمتع بتجربة استثنائية تجمع بين الفخامة والراحة في مجموعة فنادقنا المصممة بعناية لتلبية كافة توقعاتك.",
+      "bookNow": "إحجز الآن"
+    },
+    "sections": {
+      "title": "الأقسام",
+      "showAllSections": "عرض جميع الأقسام"
+    },
+    "ads": {
+      "showAllAds": "عرض جميع الإعلانات"
+    },
+    "services": {
+    "title": "خدماتنا",
+    "consultation": {
+      "title": "حجز موعد استشارة تجارية",
+      "description": "يمكنك إرسال حجز موعد مخصص لك لاستشارتك التجارية",
+      "button": "اطلب الخدمة الآن"
+    },
+    "feasibilityStudy": {
+      "title": "طلب دراسة جدوى",
+      "description": "يمكنك إرسال طلب خاص بك لدراسة جدوى لمشروع ما",
+      "button": "اطلب الخدمة الآن"
+    },
+    "projectExecution": {
+      "title": "طلب تنفيذ مشاريع",
+      "description": "يمكنك إرسال طلب تنفيذ مشروع خاص",
+      "button": "اطلب الخدمة الآن"
+    },
+    "governmentContracts": {
+      "title": "التعاقدات الحكومية والخاصة",
+      "description": "يمكنك إرسال طلب تعاقد حكومي أو خاص",
+      "button": "اطلب الخدمة الآن"
+    }
+  },
+  "Job": {
+    "JobApplication": "إرسال طلب توظيف"
+  }
+  },
+  "AboutSection": {
+    "title": "نبذة عن درة",
+    "subtitle": "مكان واحد يجمع بين الفخامة والضيافة الراقية",
+    "description": "درة طيبة ليست مجرد مجموعة فنادق، بل هي تجربة تجمع بين التقاليد العربية الأصيلة وأعلى معايير الضيافة العصرية. نسعى دائمًا لتوفير تجربة لا تُنسى لضيوفنا في كل إقامة.",
+    "rooms": "غرفة وجناح",
+    "experience": "سنوات خبرة",
+    "hotels": "فنادق مميزة",
+    "cta": "تعرف علينا"
+  },
+  "OurBranches": {
+    "our_branches_title": "فروع الفنادق",
+    "our_branches_description": "تجربة الضيافة الفاخرة في مواقع متعددة",
+    "show_All": "اظهار الكل",
+    "show_details": "اظهار التفاصيل"
+  },
+  "OurServices": {
+    "our_services_title": "خدماتنا",
+    "our_services_description": "خدمات مصممة لتلبية كل احتياجاتك",
+    "show_All": "اظهار الكل"
+  },
+  "Feedback": {
+    "Feedback_title": "آراء العملاء",
+    "Feedback_description": "ماذا يقول عملائنا عن درة",
+    "Feedback_visite": "تاريخ الزيارة"
+  },
+  "BlogsSection": {
+    "Blogs_section_title": "أحدث المقالات",
+    "Blogs_section_description": "ابق على اطلاع بأحدث رؤى السفر وأدلة الوجهات لدينا",
+    "show_details": "عرض التفاصيل",
+    "show_All": "عرض جميع المقالات"
+  },
+  "ContactUsSection": {
+    "ContactUs_section_title": " تواصل معنا",
+    "ContactUs_section_description": "أرسل إلينا مقترحاتك أو استفساراتك بأي وقت",
+    "contact_info": "معلومات التواصل",
+    "contact_des": "أرسل لنا رسالتك، وسنكون سعداء بالرد عليك",
+    "first_name": "الاسم الاول",
+    "last_name": "الاسم الاخير",
+    "email": "البريد الالكتروني",
+    "message": "نص الرسالة",
+    "phone_number": "رقم الهاتف",
+    "invalid_phone": "رقم الهاتف غير صالح",
+    "send": "ارسال",
+    "name": "الاسم",
+    "phone": "رقم الجوال",
+    "subject": "موضوع الرسالة",
+    "submit": "إرسال الرسالة",
+    "name_required": "الاسم مطلوب",
+    "email_required": "البريد الإلكتروني مطلوب",
+    "subject_required": "موضوع الرسالة مطلوب",
+    "message_required": "نص الرسالة مطلوب",
+    "phone_required": "رقم الجوال مطلوب",
+    "phone_invalid": "ادخل رقم جوال صحيح",
+    "email_invalid": "ادخل بريد إلكتروني صحيح"
+  },
+  "singleHotelPage": {
+    "rate": "التقييم",
+    "available_rooms": "غرف متاحة",
+    "show_details": "اظهار التفاصيل",
+    "description": "الوصف",
+    "facilities_and_services": "المزايا والخدمات",
+    "about_hotel": "عن الفندق"
+  },
+
+  "latestEvents": {
+    "latest_events": "أحدث الفعاليات",
+    "filter_by_specialty": "تصفية حسب التخصصات",
+    "all": "الكل",
+    "dentistry": "طب الأسنان والتخصصات المساندة",
+    "medicine": "طب بشري",
+    "healthcare": "علوم صحية مساعدة / اخصائي",
+    "pharmacy": "صيدلة",
+    "all_events": "جميع الفعاليات"
+  },
+  "events": {
+    "course_name": "هنا يظهر اسم الدورة التدريبية الكامل",
+    "duration": "شهر (30 يوم)"
+  },
+  "registerNow": {
+    "firstChoice": "الاختيار الأول للممارس الصحي",
+    "allHealthEvents": "جميع الفعاليات الصحية في منصة واحدة",
+    "attendanceCertificate": "شهادة حضور",
+    "registerNow": "سجل الآن",
+    "ourCompanies": "شركاؤنا"
+  },
+  "successStory": {
+    "successStoryTitle": "مسيرة نجاح",
+    "successStoryDescription": "نعمل مع شركائنا كفريق عمل واحد لإخراج الفعاليات الصحية بأفضل تنظيم .. نهتم بأدق التفاصيل لنجعل من الحدث العلمي بصمة لا تنسى",
+    "discoverMore": "اكتشف المزيد",
+    "requestEvent": "اطلب فعاليتك",
+    "conferenceTitle": "المؤتمر السنوي لطب الأطفال",
+    "conferenceDescription": "هناك حقيقة مثبتة منذ زمن طويل وهي أن المحتوى المقروء لصفحة ما سيلهي القارئ عن التركيز على الشكل الخارجي للنص أو شكل توضع الفقرات في الصفحة التي يقرأها. ولذلك يتم استخدام طريقة"
+  },
+  "faitsAndNumbers": {
+    "title": "حقائق وأرقام",
+    "event": "فعالية",
+    "certificate": "شهادة",
+    "speaker": "محاضر",
+    "user": "مستخدم"
+  },
+  "joinUs": {
+    "title": "كن أحد المحاضرين",
+    "subtitle": "انضم لفريق خبراء التعليم وشارك خبراتك العلمية",
+    "buttonText": "انضم إلينا الآن"
+  },
+  "fastArrive": {
+    "fastArrive": "فئات الوصول السريع"
+  },
+  "register": {
+    "title": "إنشاء حساب جديد",
+     "upload_personal_Id": "تحميل الهوية الشخصية",
+  "upload_Id_photo_description": "يرجى تحميل صورة واضحة لهويتك الشخصية",
+    "client": "عميل",
+  "store": "مؤسسة",
+    "subtitle": "املأ البيانات التالية لإنشاء حسابك",
+    "username": "اسم المستخدم",
+    "address": "العنوان",
+    "lat": "خط العرض",
+    "lng": "خط الطول",
+    "phone": "رقم الجوال",
+    "email": "البريد الإلكتروني",
+    "account_type": "اختر نوع الحساب",
+    "city": "اختر المدينة",
+    "department": "اختر القسم الخاص بك",
+    "tools": "الأدوات المعدات المستخدمة",
+    "upload_personal_photo": "أرفق صورة شخصية",
+    "upload_licence_title": "قم برفع رخصتك",
+    "upload_licence_description": "يرجى رفع صورة رخصة سارية للمتابعة.",
+    "upload_personal_photo_description": "قم بإرفاق صورة شخصية لحسابك",
+    "upload_license_photo": "أرفق صورة الترخيص",
+    "upload_license_photo_description": "قم بإرفاق صورة شخصية لحسابك",
+    "has_license": "هل لديك ترخيص؟",
+    "yes": "نعم",
+    "no": "لا",
+    "agree_term1": "نعم, أوافق على",
+    "agree_term2": "الشروط والاحكام",
+    "create_account": "إنشاء الحساب",
+    "already_have_account": "لديك حساب بالفعل؟",
+    "login": "تسجيل الدخول",
+   "required": "هذا الحقل مطلوب"
+  },
+  "login": {
+    "title": "تسجيل الدخول",
+    "subtitle": "أدخل  البريد الالكتروني المرتبط بحسابك لتسجيل الدخول",
+    "placeholder": "أدخل  البريد الالكتروني",
+    "button": "الدخول",
+    "no_account": "ليس لديك حساب",
+    "create_account": "إنشاء حساب جديد"
+  },
+  
+  "appointment": {
+    "name_required": "الاسم مطلوب",
+    "mobile_required": "رقم الجوال مطلوب",
+    "type": "نوع الاستشارة مطلوب",
+    "onsite": "  من المقر",
+    "remotely": "عن بُعد",
+    "period": "الفترة مطلوبة",
+    "morning": "صباحا",
+    "evening": "مساء",
+    "time_required": "الوقت مطلوب",
+    "description_required": "نبذة الاستشارة مطلوبة",
+    "name": "يجب ألا يقل الاسم عن 3 أحرف",
+    "description": "يجب ألا تقل النبذة عن 10 أحرف",
+    "mobile": "يرجى إدخال رقم جوال صحيح",
+    "time": "يجب أن يكون الوقت بصيغة 00:00:00",
+    "name_label": "الاسم",
+    "name_placeholder": "أحمد البدري",
+    "mobile_label": "رقم الجوال",
+    "mobile_placeholder": "+966 54120159901",
+    "type_placeholder": "حدد نوع الاستشارة (بالمكتب / عن بُعد)",
+    "period_placeholder": "حدد الفترة (صباحا / مساء)",
+    "time_label": "حدد الساعة المناسبة",
+    "description_placeholder": "اكتب نبذة بسيطة عن تفاصيل الاستشارة",
+    "submit": "إرسال الطلب",
+    "title": "حجز موعد استشارة تجارية",
+    "subtitle": "يمكنك إرسال حجز موعد مخصص لك لاستشارتك التجارية"
+  },
+  "editProfile": {
+    "title": "تعديل بياناتي الشخصية",
+    "address": "العنوان",
+    "change_personal_image": "تغيير الصورة الشخصية",
+    "change_personal_image_description": "يمكنك تغيير الصورة الشخصية لحسابك",
+    "name": "اسم المستخدم",
+    "mobile": "رقم الجوال",
+    "email": "البريد الإلكتروني",
+    "select_city": "اختر المدينة",
+    "select_account_type": "اختر نوع الحساب",
+    "select_category": "اختر الحساب",
+    "license_question": "هل لديك ترخيص؟",
+    "license_description": "قم برفع صورة شخصية لترخيصك",
+    "yes": "نعم",
+    "no": "لا",
+    "change_license_image": "تغيير صورة الترخيص",
+    "change_license_image_description": "يمكنك تغيير صورة الترخيص",
+    "tools_label": "الأدوات المعدات المستخدمة",
+    "social_media_label": "روابط السوشيال ميديا",
+    "social_media_description": "يمكنك إضافة حسابات السوشيال ميديا الخاصة بك لسهولة تواصل العملاء معك",
+    "save_changes": "حفظ التعديلات",
+    "twitter": "تويتر",
+    "facebook": "فيسبوك",
+    "instagram": "انستغرام",
+    "snapchat": "سناب شات",
+    "whatsapp": "واتساب"
+  },
+  "employment": {
+    "title": "قم بملأ بياناتك لإرسال طلب توظيف",
+    "name": "الأسم",
+    "mobile": "رقم الجوال",
+    "city": "المدينة",
+    "upload_cv": "أرفق السيرة الذاتية CV",
+    "upload_hint": "قم بإرفاق سيرتك الذاتية بصيغة PDF",
+    "file_required": "يرجى إرفاق السيرة الذاتية بصيغة PDF.",
+    "invalid_file_type": "يسمح فقط بملفات PDF.",
+    "file_uploaded": "تم رفع السيرة الذاتية بنجاح.",
+    "submit": "إرسال الطلب",
+    "required": "هذا الحقل مطلوب"
+  },
+
+  "addAds": {
+    "uploadImageTitle": "أرفق صورة غلاف لفيديو الإعلان",
+    "uploadTitle": "أرفق صورة او فيديو للإعلان",
+    "uploadImageDescription": "هنا يظهر المواصفات الخاصة بمقاس وامتداد الصور او الفيديو المطلوب رفعها",
+    "titlePlaceholderAr": "عنوان أو اسم الإعلان",
+    "titlePlaceholderEn": "عنوان أو اسم الإعلان باللغة الإنجليزية",
+    "descPlaceholderAr": "اكتب وصف بسيط عن الإعلان",
+    "descPlaceholderEn": "اكتب وصف بسيط عن الإعلان باللغة الإنجليزية",
+    "endDateLabel": "تاريخ نهاية الإعلان",
+    "sectionPlaceholder": "القسم",
+    "toggleTitle": "تفعيل / تعطيل ( المنتج محلي )",
+    "toggleDescription": "يمكنك تفعيل خاصية أن المنتج محلي أو تعطليها",
+    "infoText": "يتم ارسال الطلب الى إدارة الموقع وانتظار الموافقة مع ظهور رسالة تفيد بوجود عقد بقيمة الإعلان بعد الموافقة بقائمة الإعلانات",
+    "submit": "إرسال طلب نشر الإعلان",
+    "uploadVideoTitle": "قم بتحميل الصورة أو الفيديو الرئيسي",
+    "uploadVideoDescription": "هنا يظهر المواصفات الخاصة بمقاس وامتداد الفيديو أو الصور المطلوب رفعها",
+    "uploadAudioTitle": "قم بتحميل صوت  للصورة",
+    "uploadAudioDescription": "الصيغ المقبولة: MP3، WAV — مطلوب إذا قمت برفع صورة",
+    "uploadSecondFileTitle": "قم بتحميل ملف إضافي",
+    "uploadSecondFileDescription": "قم بتحميل ملف مكمل حسب نوع الملف الأول",
+    "pageTitle": "إضافة إعلان جديد",
+    "pageDescription": "قم بإضافة بيانات إعلانك للنشر بقائمة الإعلانات",
+    "uploadAnotherFile": "قم بتحميل ملف اخر",
+    "editYourAd": "تعديل الإعلان",
+    "subeditYourAd": "قم بإضافة بياناتك للتعديل",
+    "errors": {
+      "required": "هذا الحقل مطلوب",
+      "imageRequired": "الصورة مطلوبة",
+      "imageType": "يُسمح فقط بملفات الصور",
+      "fileRequired": "الملف مطلوب",
+      "fileType": "يُسمح فقط بملفات الفيديو أو الصوت"
+    }
+  },
+  "feasibility": {
+    "title": "طلب دراسة جدوى",
+    "description": "يمكنك إرسال طلب خاص بك لدراسة جدوى لمشروع ما",
+    "whatsapp_request": "طلب الخدمة عبر الواتساب"
+  },
+  "Contract": {
+    "title": "التعاقدات الحكومية والخاصة",
+    "subtitle": "يمكنك إرسال طلب تعاقد حكومي أو خاص",
+    "name": "الاسم",
+    "mobile": "رقم الجوال",
+    "city": "المدينة",
+    "email": "البريد الإلكتروني",
+    "entity_name": "اسم الجهة",
+    "description": "اكتب نبذة بسيطة عن تفاصيل التعاقد",
+    "submit": "إرسال الطلب",
+    "required": "مطلوب",
+    "invalid_email": "البريد الإلكتروني غير صحيح"
+  },
+  "myAds": {
+    "title": "قائمة إعلاناتي",
+    "subtitle": "الإعلانات الخاصة بي، التي قمت بإضافتها",
+    "pending": "قيد الانتظار ( جديدة )",
+    "accepted": "مقبولة ( حالية )",
+    "suspended": "معلقة",
+    "refused": "مرفوضة",
+    "published": "منشورة",
+    "next": "التالي",
+    "prev": "السابق",
+    "page": "صفحة",
+    "from": "من",
+    "no-ads": "لا توجد إعلانات قمت بإضافتها",
+    "status": "حالة الإعلان",
+    "start-date": "تاريخ بداية الإعلان",
+    "end-date": "تاريخ إنتهاء الإعلان",
+    "local": "# محلي",
+    "pdf": "العقد المرفق.PDF",
+    "pay-ad": "يجب دفع قيمة الإعلان قبل 48 ساعة لتأكيد النشر",
+    "cost": "تكلفة الإعلان",
+    "day": "يوم",
+    "payment": "طرق الدفع المتاحة",
+    "SAR": "ر.س",
+    "pay-submit": "الدفع وتأكيد النشر",
+    "edit-ad": "تعديل الإعلان",
+    "delete-ads": "حذف الإعلان",
+    "reason-refused": "سبب الرفض",
+    "add-details": "عرض تفاصيل الإعلان"
+  },
+  "allAds":{
+    "ads": "الإعلانات",
+  "searchPlaceholder": "البحث بعنوان الإعلان",
+  "filterByCity": "فلترة حسب المدينة",
+  "filterByCategory": "فلترة حسب القسم",
+  "filterByType": "فلترة حسب النوع",
+  "viewAdvertiserDetails": "عرض تفاصيل المعلن",
+  "account_type": "اختر نوع الحساب",
+    "city": "اختر المدينة",
+    "department": "اختر القسم الخاص بك",
+    "client": "عميل",
+    "store": "مؤسسة"
+  },
+    "payment": {
+    "title": "دفع الفاتورة",
+    "description": "قم باختيار الطريقة المناسبة لك للدفع",
+    "wallet": "محفظة",
+    "bank": "إرفاق صورة تحويل بنكي",
+    "online": "اونلاين",
+    "walletBalance": "رصيد محفظتك",
+    "sar": "ر.س",
+    "uploadTitle": "أرفق صورة إيصال التحويل البنكي",
+    "uploadDesc": "قم بإرفاق صورة إيصال التحويل البنكي",
+    "onlineNote": "سيتم نحويلك الي بوابه الدفع الالكتروني بعد تاكيد الدفع.",
+    "confirm": "تأكيد الدفع",
+    "walletEmpty": "رصيد المحفظة صفر"
+  },
+  "myProfile": {
+    "accountType": "نوع الحساب",
+    "downloadMyData": "تعديل بياناتي",
+    "mediaLinks": "روابط السوشيال ميديا",
+    "adsAbout": "نبذة عن المعلن",
+    "brief": "صاحب متجر سيارات",
+    "myRatings": "تقييماتي",
+    "client": "عميل",
+    "store": "مؤسسة",
+    "noRatings": "لا يوجد تقييمات"
+  },
+  "notifications": {
+    "title": "الإشعارات",
+    "description": "مركز الاشعارات الخاصة بحسابك",
+    "noNotifications": "لا يوجد إشعارات"
+  },
+  "advertiser": {
+  "complaint": "تقديم شكوى",
+  "attachments": "المرفقات والتراخيص",
+  "contact_advertiser": "تواصل مع المعلن",
+  "rating": "تقييم",
+  "location": "عدن",
+  "location_detail": "جدة - عدن",
+  "name": "Omar",
+  "about_advertiser": "نبذة عن المعلن",
+  "owner": "صاحب متجر سيارات",
+  "ads_title": "اعلانات المعلن",
+  "advertiser_reviews": "تقييمات المعلن",
+  "rate_advertiser": "تقييم المعلن"
+},
+"implementation":{
+  "formTitle": "طلب تنفيذ مشروع",
+  "required": "هذا الحقل مطلوب",
+  "address": "العنوان",
+  "formDescription": "يرجى إرسال طلب تنفيذ مشروع خاص",
+  "mobileNumberLabel": "رقم الجوال",
+  "mobileNumberPlaceholder": "0500000005",
+  "nameLabel": "الاسم",
+  "namePlaceholder": "أدخل الاسم الكامل",
+  "quantityLabel": "العدد",
+  "quantityPlaceholder": "أدخل الكمية",
+  "projectTypeLabel": "حدد لوكيشن المشروع",
+  "projectTypePlaceholder": "اختر نوع المشروع",
+  "reservationDateLabel": "موعد حجز المشروع",
+  "reservationDatePlaceholder": "حدد التاريخ",
+  "documentsLabel": "رابط الكروكي أو المستندات",
+"imagesSelected": "تم اختيار صور للمشروع",
+  "attachImagesTitle": "أرفق صور المشروع",
+  "attachImagesSubtitle": "قم بإرفاق صور للمشروع",
+  "descriptionPlaceholder": "اكتب نبذة بسيطة عن تفاصيل المشروع",
+  "requiredError": "هذا الحقل مطلوب",
+  "submitButton": "إرسال الطلب"
+},
+"wallet":{
+  "title": "المحفظة",
+  "description": "تفاصيل المحفظة الخاصة بحسابك",
+  "balanceTitle": "رصيد محفظتك الحالي",
+  "ibanCopied": "تم نسخ رقم الآيبان",
+  "ibanCopyFailed": "فشل في نسخ رقم الآيبان"
+}
+}

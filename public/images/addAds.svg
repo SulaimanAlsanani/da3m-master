@@ -1,0 +1,10 @@
+<svg id="vuesax_broken_add-circle" data-name="vuesax/broken/add-circle" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="add-circle">
+    <path id="Vector" d="M0,12V0" transform="translate(18 12)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0H1.515" transform="translate(22.485 18)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H5.715" transform="translate(12 18)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="Vector-4" data-name="Vector" d="M0,12V0" transform="translate(18 12)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="Vector-5" data-name="Vector" d="M3,6A15,15,0,1,0,15,0,14.8,14.8,0,0,0,8.955,1.275" transform="translate(3 3)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5"/>
+    <path id="Vector-6" data-name="Vector" d="M0,0H36V36H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

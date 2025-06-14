@@ -1,0 +1,11 @@
+<svg id="vuesax_bulk_sms-notification" data-name="vuesax/bulk/sms-notification" xmlns="http://www.w3.org/2000/svg" width="25.502" height="25.502" viewBox="0 0 25.502 25.502">
+  <g id="sms-notification">
+    <path id="Vector" d="M0,0H25.5V25.5H0Z" fill="none" opacity="0"/>
+    <path id="Vector-2" data-name="Vector" d="M5.313,2.656A2.656,2.656,0,1,1,2.656,0,2.656,2.656,0,0,1,5.313,2.656Z" transform="translate(18.064 3.188)" fill="#fff"/>
+    <path id="Vector-3" data-name="Vector" d="M5.313,2.656A2.656,2.656,0,1,1,2.656,0,2.656,2.656,0,0,1,5.313,2.656Z" transform="translate(18.064 3.188)" fill="#fff"/>
+    <path id="Vector-4" data-name="Vector" d="M19.892,6.163a1.058,1.058,0,0,1,1.36,1.02v5.568c0,3.719-2.125,5.313-5.313,5.313H5.313C2.125,18.064,0,16.47,0,12.751V5.313C0,1.594,2.125,0,5.313,0H13.4A1.072,1.072,0,0,1,14.43,1.307a4.251,4.251,0,0,0,3.06,4.92A4.369,4.369,0,0,0,19.892,6.163Z" transform="translate(2.125 3.73)" fill="#fff" opacity="0.4"/>
+    <g id="Group" transform="translate(6.638 8.763)">
+      <path id="Vector-5" data-name="Vector" d="M6.113,4.912a3.95,3.95,0,0,1-2.486-.839L.3,1.416A.794.794,0,0,1,1.289.173L4.614,2.829a2.535,2.535,0,0,0,2.986,0l1.254-1a.794.794,0,1,1,.988,1.243l-1.254,1A3.9,3.9,0,0,1,6.113,4.912Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>

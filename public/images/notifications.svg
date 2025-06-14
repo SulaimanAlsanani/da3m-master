@@ -1,0 +1,8 @@
+<svg id="vuesax_broken_lamp" data-name="vuesax/broken/lamp" xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+  <g id="lamp">
+    <path id="Vector" d="M1.965,6.165A13.069,13.069,0,0,1,13.08,0h.18A13.072,13.072,0,0,1,26.34,13.08v7.41H0V13.08" transform="translate(4.83 7.395)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-2" data-name="Vector" d="M0,0V4.395" transform="translate(18 3)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-3" data-name="Vector" d="M10.95,0A5.492,5.492,0,0,1,5.475,5.115,5.492,5.492,0,0,1,0,0Z" transform="translate(12.525 27.885)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H36V36H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

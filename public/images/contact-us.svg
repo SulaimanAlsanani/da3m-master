@@ -1,0 +1,9 @@
+<svg id="vuesax_linear_directbox-notif" data-name="vuesax/linear/directbox-notif" xmlns="http://www.w3.org/2000/svg" width="41.5" height="41.5" viewBox="0 0 41.5 41.5">
+  <g id="directbox-notif">
+    <path id="Vector" d="M6.917,0C0,0,0,3.1,0,6.917V8.646c0,4.773,0,8.646,8.646,8.646H22.479c6.917,0,8.646-3.873,8.646-8.646V6.917c0-3.821,0-6.917-6.917-6.917A4.083,4.083,0,0,0,21.1,1.038L19.332,2.905a5.185,5.185,0,0,1-7.556,0L10.029,1.038A4.083,4.083,0,0,0,6.917,0Z" transform="translate(5.188 20.75)" fill="none" stroke="#d4c4a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-2" data-name="Vector" d="M24.208,17.292V6.917c0-3.821,0-6.917-6.917-6.917H6.917C0,0,0,3.1,0,6.917V17.292" transform="translate(8.646 3.458)" fill="none" stroke="#d4c4a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H5.758" transform="translate(18.243 15.96)" fill="none" stroke="#d4c4a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-4" data-name="Vector" d="M0,0H8.646" transform="translate(16.808 10.773)" fill="none" stroke="#d4c4a3" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-5" data-name="Vector" d="M0,0H41.5V41.5H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="logout_broken" data-name="logout/broken" transform="translate(24 24) rotate(180)">
+    <g id="vuesax_broken_logout" data-name="vuesax/broken/logout">
+      <g id="logout">
+        <path id="Vector" d="M12.59,0V2.26c0,4.47-1.79,6.26-6.26,6.26H6.2C2.18,8.52.33,7.07,0,3.53" transform="translate(8.91 13)" fill="none" stroke="#ee0028" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-2" data-name="Vector" d="M0,5.07C.31,1.47,2.16,0,6.21,0h.13c4.47,0,6.26,1.79,6.26,6.26" transform="translate(8.9 2.49)" fill="none" stroke="#ee0028" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-3" data-name="Vector" d="M11.38,0H0" transform="translate(3.62 12)" fill="none" stroke="#ee0028" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-4" data-name="Vector" d="M3.35,0,0,3.35,3.35,6.7" transform="translate(2.5 8.65)" fill="none" stroke="#ee0028" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+        <path id="Vector-5" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+      </g>
+    </g>
+  </g>
+</svg>

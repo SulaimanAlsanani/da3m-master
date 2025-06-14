@@ -1,0 +1,11 @@
+<svg id="vuesax_broken_brifecase-timer" data-name="vuesax/broken/brifecase-timer" xmlns="http://www.w3.org/2000/svg" width="67.742" height="67.742" viewBox="0 0 67.742 67.742">
+  <g id="brifecase-timer">
+    <path id="Vector" d="M22.581,11.29A11.29,11.29,0,1,1,11.29,0,11.29,11.29,0,0,1,22.581,11.29Z" transform="translate(22.581 28.79)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Vector-2" data-name="Vector" d="M3.528,0V2.625A2.8,2.8,0,0,1,2.145,5.052L0,6.351" transform="translate(31.049 36.553)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Vector-3" data-name="Vector" d="M52.785,35.085c-.593,5.532-2.625,10.077-13.972,10.077H16.232c-11.347,0-13.379-4.544-13.972-10.077L.143,12.5C-.619,5.617,1.357,0,13.41,0H41.635C53.688,0,55.664,5.617,54.9,12.5L53.97,22.581" transform="translate(6.349 16.936)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Vector-4" data-name="Vector" d="M0,11.29V9.032C0,4.036,0,0,9.032,0h4.516c9.032,0,9.032,4.036,9.032,9.032V11.29" transform="translate(22.581 5.645)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Vector-5" data-name="Vector" d="M15.919,0A46.108,46.108,0,0,1,0,7.452" transform="translate(45.19 31.049)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Vector-6" data-name="Vector" d="M0,0A46.391,46.391,0,0,0,15.186,6.8" transform="translate(7.395 31.811)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    <path id="Vector-7" data-name="Vector" d="M0,0H67.742V67.742H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

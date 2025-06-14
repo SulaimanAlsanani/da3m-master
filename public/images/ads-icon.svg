@@ -1,0 +1,7 @@
+<svg id="vuesax_linear_mouse-circle" data-name="vuesax/linear/mouse-circle" xmlns="http://www.w3.org/2000/svg" width="18.512" height="18.512" viewBox="0 0 18.512 18.512">
+  <g id="mouse-circle">
+    <path id="Vector" d="M6.132,3.72l-1.257.424a1.161,1.161,0,0,0-.74.74L3.71,6.142a1.169,1.169,0,0,1-2.229-.023L.054,1.529A1.172,1.172,0,0,1,1.519.056l4.6,1.427A1.177,1.177,0,0,1,6.132,3.72Z" transform="translate(10.035 10.04)" fill="none" stroke="#999b9e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-2" data-name="Vector" d="M15.426,7.713a7.713,7.713,0,1,0-7.713,7.713" transform="translate(1.543 1.543)" fill="none" stroke="#999b9e" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+    <path id="Vector-3" data-name="Vector" d="M0,0H18.512V18.512H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

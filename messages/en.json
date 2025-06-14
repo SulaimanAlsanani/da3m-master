@@ -1,0 +1,500 @@
+{
+  "navbar": {
+    "homeLink": "Home",
+    "aboutUs": "About",
+    "services": "Services",
+    "news": "News",
+    "listYourPoperty": "List Your Poperty",
+    "rent": "rent",
+    "offPlan": "offPlan",
+    "readyToMove": "readyToMove",
+    "english": "English",
+    "arabic": "Arabic",
+    "faqs": "faqs",
+    "contactUs": "Contact Us",
+    "languageText": "Arabic",
+    "login": "Login",
+    "sections": "Sections",
+    "ads": "Ads",
+    "search": "Search",
+    "close": "Close",
+    "profile": "Profile",
+    "addAd": "Add New Ad",
+    "adList": "My Ads",
+    "bankAccount": "Bank Account",
+    "wallet": "Wallet",
+    "notifications": "Notifications",
+    "logout": "Logout"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "common": {
+    "loading": "Loading",
+    "error": "Error occurred",
+    "success": "Success"
+  },
+  "error": {
+    "pageNotFound": "Page Not Found",
+    "pageNotFoundDesc": "Sorry, the page you are looking for does not exist",
+    "backHome": "Back to Home",
+    "error": "Error Occurred",
+    "errorDesc": "Sorry, something went wrong. Please try again",
+    "tryAgain": "Try Again"
+  },
+  "footer": {
+    "copyright": "All rights reserved © 2025 Daam Alwatan.",
+    "contact_us": "Contact Us",
+    "via_phone": "Via Mobile Number",
+    "phone_number": "+966 51200154892",
+    "via_email": "Via Email",
+    "email_address": "info@daamelwatan.com",
+    "important_links": "Important Links",
+    "sections": "Sections",
+    "ads": "Ads",
+    "join_us": "Join Us",
+    "privacy_policy": "Privacy Policy",
+    "services": "Our Services",
+    "get_in_touch": "Get in Touch",
+    "social_media": "Social Media"
+  },
+  "home": {
+    "hero": {
+      "title": "Discover Luxury Living at Durra Taibah",
+      "description": "Experience exceptional luxury and comfort in our carefully designed hotels, crafted to exceed your expectations.",
+      "bookNow": "Book Now"
+    },
+    "sections": {
+      "title": "Sections",
+      "showAllSections":"Show all sections"
+    },
+    "ads": {
+      "showAllAds": "Show all"
+    },
+    "services": {
+      "title": "Our Services",
+      "consultation": {
+        "title": "Book a Business Consultation",
+        "description": "You can send a request to book a dedicated consultation for your business",
+        "button": "Request the Service Now"
+      },
+      "feasibilityStudy": {
+        "title": "Request Feasibility Study",
+        "description": "You can send a custom request to study the feasibility of a project",
+        "button": "Request the Service Now"
+      },
+      "projectExecution": {
+        "title": "Request Project Execution",
+        "description": "You can submit a request to implement a special project.",
+        "button": "Request the Service Now"
+      },
+      "governmentContracts": {
+        "title": "Government and Private Contracts",
+        "description": "You can submit a request for a government or private contract.",
+        "button": "Request the Service Now"
+      }
+    },
+    "Job": {
+      "JobApplication": "Send job application"
+    }
+  },
+  "AboutSection": {
+    "title": "about us",
+    "subtitle": "One place that combines luxury and high-end hospitality",
+    "description": "Durra Taibah is not just a collection of hotels, but an experience that combines authentic Arabic traditions with the highest standards of modern hospitality. We strive to provide an unforgettable experience for our guests in every stay.",
+    "rooms": "Rooms and suites",
+    "experience": "Years of experience",
+    "hotels": "Distinctive hotels",
+    "cta": "Get to know us"
+  },
+  "OurBranches": {
+    "our_branches_title": "Hotel Branches",
+    "our_branches_description": "Experience the magic of modern hospitality in multiple locations",
+    "show_All": "Show All",
+    "show_details": "Show Details"
+  },
+  "OurServices": {
+    "our_services_title": "Our Services",
+    "our_services_description": "Services designed to meet your needs",
+    "show_All": "Show All"
+  },
+  "Feedback": {
+    "Feedback_title": "Feedback",
+    "Feedback_description": "What our customers say about Durra Taiba",
+    "Feedback_visite": "Visit Date"
+  },
+  "BlogsSection": {
+    "Blogs_section_title": "Latest Blog Posts",
+    "Blogs_section_description": "Stay updated with our latest travel insights and destination guides",
+    "show_details": "Show Details",
+    "show_All": "View All Blogs"
+  },
+  "ContactUsSection": {
+    "ContactUs_section_title": "Contact Us",
+    "ContactUs_section_description": "Get in touch with us for any inquiries or feedback",
+    "contact_info": "Contact Information",
+    "contact_des": "Send your message, and we will be happy to reply to you",
+    "first_name": "First Name",
+    "last_name": "Last Name",
+    "email": "Email",
+    "message": "Message",
+    "phone_number": "Phone Number",
+    "invalid_phone": "Invalid phone number",
+    "send": "Send",
+    "name": "Name",
+    "phone": "Phone Number",
+    "subject": "Message Subject",
+    "submit": "Send Message",
+     "name_required": "Name is required",
+    "email_required": "Email is required",
+    "phone_required": "Phone number is required",
+    "subject_required": "Subject is required",
+    "message_required": "Message text is required",
+    "phone_invalid": "Please enter a valid phone number",
+    "email_invalid": "Please enter a valid email address"
+  },
+  "singleHotelPage": {
+    "rate": "Rate",
+    "available_rooms": "Available Rooms",
+    "show_details": "Show Details",
+    "description": "Description",
+    "facilities_and_services": "Facilities And Services",
+    "about_hotel": "About Hotel"
+  },
+    "latestEvents": {
+    "latest_events": "Latest Events",
+    "filter_by_specialty": "Filter by Specialties",
+    "all": "All",
+    "dentistry": "Dentistry & Allied Specialties",
+    "medicine": "Human Medicine",
+    "healthcare": "Healthcare / Specialist",
+    "pharmacy": "Pharmacy",
+    "all_events": "All Events"
+  },
+  "events": {
+    "course_name": "Full Course Name Here",
+    "duration": "Month (30 days)"
+  },
+  "registerNow": {
+    "firstChoice": "First choice for healthcare ",
+  "allHealthEvents": "All health events in one platform",
+  "attendanceCertificate": "Attendance Certificate",
+  "registerNow": "Register Now",
+  "ourCompanies" : "Our Companirs"
+  },
+  "successStory": {
+  "successStoryTitle": "Success Story",
+  "successStoryDescription": "We work with our partners as one team to organize health events in the best possible way. We care about the smallest details to make every scientific event an unforgettable mark.",
+  "discoverMore": "Discover More",
+  "requestEvent": "Request Your Event",
+    "conferenceTitle": "Annual Pediatric Conference",
+  "conferenceDescription": "There is a well-established fact that the content of a page will distract the reader from focusing on the external appearance of the text or the way paragraphs are arranged on the page they are reading. Therefore, a method is used."
+},
+"faitsAndNumbers": {
+  "title": "Facts and Figures",
+  "event": "Event",
+  "certificate": "Certificate",
+  "speaker": "Speaker",
+  "user": "User"
+},
+"joinUs": {
+  "title": "Become a Speaker",
+  "subtitle": "Join our team of educational experts and share your knowledge",
+  "buttonText": "Join Us Now"
+},
+"fastArrive" : {
+  "fastArrive" : "Quick Access Categories"
+
+},
+"register": {
+  "title": "Create a New Account",
+  "subtitle": "Fill in the following details to create your account",
+  "username": "Username",
+  "upload_personal_Id": "Upload Personal ID",
+  "upload_Id_photo_description": "Please upload a clear photo of your personal ID",
+   "client": "Client",
+  "store": "Store",
+  "phone": "Phone Number",
+  "address": "Address",
+  "lat": "Latitude",
+  "lng": "Longitude",
+  "email": "Email",
+  "account_type": "Select Account Type",
+  "city": "Select City",
+  "department": "Select Your Department",
+  "tools": "Used Tools and Equipment",
+  "upload_personal_photo": "Upload a Personal Photo",
+  "upload_personal_photo_description": "Attach a personal photo for your account",
+   "upload_licence_title": "Upload your license",
+  "upload_licence_description": "Please upload a valid license image to proceed.",
+  "upload_license_photo": "Upload License Photo",
+  "upload_license_photo_description": "Attach a license photo for your account",
+  "has_license": "Do you have a license?",
+  "yes": "Yes",
+  "no": "No",
+  "agree_term1": "Yes, I agree to all ",
+  "agree_term2": "terms and conditions ",
+  "create_account": "Create Account",
+  "already_have_account": "Already have an account?",
+  "login": "Log in",
+  "required":"This field is required"
+},
+ "payment": {
+    "title": "Invoice Payment",
+    "description": "Choose your preferred payment method",
+    "wallet": "Wallet",
+    "bank": "Upload Bank Transfer Image",
+    "online": "Online",
+    "walletBalance": "Your Wallet Balance",
+    "sar": "SAR",
+    "uploadTitle": "Attach Bank Transfer Receipt",
+    "uploadDesc": "Please upload a photo of the bank transfer receipt",
+    "onlineNote": "You will be redirected to the online payment gateway after confirming the payment.",
+    "confirm": "Confirm Payment",
+    "walletEmpty": "Your wallet balance is zero"
+  },
+  "verify":{
+  "title": "Verification Code",
+  "subtitle": "The verification code has been sent to the email you entered.",
+  "emailLabel": "Email",
+  
+  "button": "Verify",
+  "notReceived": "Didn't receive the code?",
+  "resend": "Resend the code"
+  },
+"login": {
+    "title": "Login",
+    "subtitle": "Enter the Email linked to your account to log in",
+    "placeholder": "Enter your Email",
+    "button": "Login",
+    "no_account": "Don't have an account?",
+    "create_account": "Create a new account"
+  },
+ 
+"appointment": {
+    "name_required": "Name is required",
+    "mobile_required": "Mobile is required",
+    "type": "Type is required",
+    "onsite":"onsite",
+    "remotely": "remotely ",
+    "period": "Period is required",
+    "morning": "morning",
+    "evening": "evening",
+    "time_required": "Time is required",
+    "description_required": "Description is required",
+    "name": "Name must be at least 3 characters",
+    "description": "Description must be at least 10 characters",
+    "mobile": "Please enter a valid mobile number",
+    "time": "Time must be in format HH:MM:SS",
+    "name_label": "Name",
+  "name_placeholder": "Ahmed Al-Badri",
+  "mobile_label": "Mobile Number",
+  "mobile_placeholder": "+966 54120159901",
+  "type_placeholder": "Select consultation type (on-site / remote)",
+  "period_placeholder": "Select period (morning / evening)",
+  "time_label": "Choose preferred time",
+  "description_placeholder": "Write a brief description of the consultation",
+  "submit": "Submit Request",
+  "title": "Book a Business Consultation Appointment",
+  "subtitle": "You can send a personalized appointment request for your business consultation"
+},
+"editProfile": {
+    "title": "Edit My Profile",
+    "address": "Address",
+    "change_personal_image": "Change Personal Image",
+    "change_personal_image_description": "You can change your account's personal image",
+    "name": "Username",
+    "mobile": "Mobile Number",
+    "email": "Email",
+    "select_city": "Select City",
+    "select_account_type": "Select Account Type",
+    "select_category": "Select Category",
+    "license_question": "Do you have a license?",
+    "license_description": "Upload your license personal photo",
+    "yes": "Yes",
+    "no": "No",
+    "change_license_image": "Change License Image",
+    "change_license_image_description": "You can change the license image",
+    "tools_label": "Tools and Equipment Used",
+    "social_media_label": "Social Media Links",
+    "social_media_description": "You can add your social media accounts for easy communication with customers",
+    "save_changes": "Save Changes",
+    "twitter": "Twitter",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "snapchat": "Snapchat",
+    "whatsapp": "WhatsApp"
+  },
+  "employment": {
+    "title": "Fill in your information to submit a job application",
+    "name": "Name",
+    "mobile": "Mobile Number",
+    "city": "City",
+    "upload_cv": "Upload your CV",
+    "upload_hint": "Please upload your CV in PDF format",
+    "file_required": "Please upload your CV (PDF format).",
+    "invalid_file_type": "Only PDF files are allowed.",
+    "file_uploaded": "CV uploaded successfully.",
+    "submit": "Submit Application",
+    "required": "This field is required"},
+
+
+  "addAds":{
+    "titlePlaceholderAr": "Ad title in Arabic",
+  "uploadTitle": "Upload image  or video for ad",
+    "titlePlaceholderEn": "Ad title in English",
+    "descPlaceholderAr": "Write a brief ad description in Arabic",
+    "descPlaceholderEn": "Write a brief ad description in English",
+    "endDateLabel": "Ad end date",
+    "sectionPlaceholder": "Section",
+    "toggleTitle": "Toggle local product",
+    "toggleDescription": "You can enable or disable the local product feature",
+    "infoText": "The request will be sent to the admin, and after approval, the contract value will appear in the ads list.",
+    "submit": "Submit Ad Request",
+    "uploadImageTitle": "Upload an cover image for video",
+    "uploadImageDescription": "Here you can upload either an image or a video that represents your ad",
+    "uploadVideoTitle": "Upload the cover image or video",
+    "uploadVideoDescription": "Here, the specifications for the required size and format of the video or image to be uploaded are displayed.",
+    "uploadAudioTitle": "Upload  audio for the image",
+    "uploadAudioDescription": "Accepted format: MP3, WAV — required if you selected an image",
+    "uploadSecondFileTitle": "Upload related file",
+    "uploadSecondFileDescription": "Upload a complementary file depending on the first file",
+    "pageTitle": "Add New Ad",
+  "pageDescription": "Add your ad details to publish in the ads list",
+"uploadAnotherFile": "Upload another file",
+  "editYourAd": "Edit your ad",
+  "subeditYourAd": "Add your information to edit",
+    "errors": {
+      "required": "This field is required",
+      "imageRequired": "Image is required",
+      "imageType": "Only image files are allowed",
+      "fileRequired": "Media file is required",
+      "fileType": "Only audio or video files are allowed"
+    }
+  },
+  "feasibility": {
+    "title": "Feasibility Study Request",
+    "description": "You can send your custom request to conduct a feasibility study for a specific project",
+    "whatsapp_request": "Request service via WhatsApp"
+  }
+,
+"Contract": {
+    "title": "Government & Private Contracts",
+    "subtitle": "You can send a request for a government or private contract",
+    "name": "Name",
+    "mobile": "Mobile Number",
+    "city": "City",
+    "email": "Email",
+    "entity_name": "Entity Name",
+    "description": "Write a brief about the contracting details",
+    "submit": "Submit Request",
+    "required": "is required",
+    "invalid_email": "Invalid email address"
+  },
+  "myAds": {
+    "title": "My Ads List",
+    "subtitle": "Ads that I have added",
+    
+      "pending": "Pending (New)",
+      "accepted": "Accepted (Active)",
+      "suspended": "Suspended",
+      "refused": "Refused",
+      "published":"Bublished",
+      "next": "Next",
+      "prev": "Previous",
+      "page": "Page ",
+      "from": "from",
+      "no-ads":"You haven't added any ads yet",
+      "status": "Status",
+      "start-date": "Start Date",
+      "end-date": "End Date",
+      "local": "# Local",
+      "pdf":"Contract PDF",
+      "pay-ad":"Payment is required before 48 hours to confirm publication",
+      "cost":"Ad cost",
+      "day":"Day",
+      "payment":"Available payment methods",
+      "SAR":"SAR",
+      "pay-submit":"Pay and confirm publication",
+      "edit-ad":"Edit Ad",
+      "delete-ads":"Delete Ad",
+      "reason-refused":"Refuse reason",
+      "add-details":"View Ad Details"
+  },
+  "allAds": {
+  "ads": "Ads",
+  "searchPlaceholder": "Search by ad title",
+  "filterByCity": "Filter by city",
+  "filterByCategory": "Filter by category",
+  "filterByType": "Filter by type",
+  "viewAdvertiserDetails": "View advertiser details",
+  "city": "Select City",
+  "department": "Select Your Department",
+  "account_type": "Select Account Type",
+  "client": "Client",
+  "store": "Store"
+},
+"myProfile": {
+  "accountType": "Account Type",
+  "downloadMyData": "Edit My Info",
+  "mediaLinks": "Social Media Links",
+  "adsAbout": "About the Advertiser",
+  "brief": "Car Store Owner",
+  "myRatings": "My Ratings",
+  "client": "Client",
+  "store": "Store",
+  "noRatings": "No ratings available"
+},
+"notifications": {
+    "title": "Notifications",
+    "description": "Your account's notification center",
+    "noNotifications": "No notifications available"
+  },
+  "advertiser":{
+    "complaint": "Submit a Complaint",
+    "attachments": "Attachments & Licenses",
+    "contact_advertiser": "Contact Advertiser",
+    "rating": "Rating",
+    "location": "Aden",
+    "location_detail": "Jeddah - Aden",
+    "name": "Omar",
+    "about_advertiser": "About the Advertiser",
+    "owner": "Car Store Owner",
+    "ads_title": "Advertiser's Ads",
+    "advertiser_reviews": "Advertiser Ratings",
+    "rate_advertiser": "Rate Advertiser"
+  },
+  "implementation":{
+    "formTitle": "Project Implementation Request",
+    "address": "Address",
+    "required":"This field is required",
+    "formDescription": "Please send a request for a special project implementation",
+    "mobileNumberLabel": "Mobile Number",
+    "mobileNumberPlaceholder": "0500000005",
+    "nameLabel": "Name",
+    "namePlaceholder": "Enter full name",
+    "quantityLabel": "Quantity",
+    "quantityPlaceholder": "Enter quantity",
+    "projectTypeLabel": "Specify the project location",
+    "projectTypePlaceholder": "Select project type",
+    "reservationDateLabel": "Project reservation date",
+    "reservationDatePlaceholder": "Select date",
+    "documentsLabel": "Cloud link or documents",
+    "documentsPlaceholder": "Attach documents detailing the project",
+    "imagesSelected": "Project images selected",
+  "attachImagesTitle": "Attach project images",
+  "attachImagesSubtitle": "Upload images for the project",
+  "descriptionPlaceholder": "Write a brief description of the project details",
+  "requiredError": "This field is required",
+    "submitButton": "Submit Request"
+  },
+  "wallet":{
+    "title": "Wallet",
+    "description": "Details of your account wallet",
+    "balanceTitle": "Your Current Wallet Balance",
+    "ibanCopied": "IBAN copied to clipboard",
+    "ibanCopyFailed": "Failed to copy IBAN to clipboard"
+  }
+}

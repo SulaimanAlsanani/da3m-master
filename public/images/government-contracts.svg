@@ -1,0 +1,9 @@
+<svg id="vuesax_broken_clipboard-tick" data-name="vuesax/broken/clipboard-tick" xmlns="http://www.w3.org/2000/svg" width="52" height="52" viewBox="0 0 52 52">
+  <g id="clipboard-tick">
+    <path id="Vector" d="M0,5.417l3.25,3.25L11.917,0" transform="translate(20.172 26.433)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-2" data-name="Vector" d="M6.413,0H4.333C2.167,0,0,0,0,4.333S2.167,8.667,4.333,8.667H13c4.333,0,4.333-2.167,4.333-4.333C17.333,0,15.167,0,13,0" transform="translate(17.333 4.333)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-3" data-name="Vector" d="M0,12.957C0,3.077,3.618.39,10.833,0" transform="translate(6.5 8.71)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-4" data-name="Vector" d="M28.167,0C35.382.39,39,3.055,39,12.957v13c0,8.667-2.167,13-13,13H13c-10.833,0-13-4.333-13-13V21.428" transform="translate(6.5 8.71)" fill="none" stroke="#c9b58e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+    <path id="Vector-5" data-name="Vector" d="M0,0H52V52H0Z" fill="none" opacity="0"/>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+<svg id="mouse-circle_broken" data-name="mouse-circle/broken" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="vuesax_broken_mouse-circle" data-name="vuesax/broken/mouse-circle">
+    <g id="mouse-circle">
+      <path id="Vector" d="M7.95,4.823l-1.63.55a1.505,1.505,0,0,0-.96.96l-.55,1.63a1.516,1.516,0,0,1-2.89-.03L.07,1.983A1.519,1.519,0,0,1,1.97.073l5.96,1.85A1.526,1.526,0,0,1,7.95,4.823Z" transform="translate(13.01 13.017)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-2" data-name="Vector" d="M1.98,0A10,10,0,0,0,10,15.97" transform="translate(2 6.03)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-3" data-name="Vector" d="M14.24,10A10.006,10.006,0,0,0,0,.94" transform="translate(7.76 2)" fill="none" stroke="#9f7a32" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+      <path id="Vector-4" data-name="Vector" d="M0,0H24V24H0Z" fill="none" opacity="0"/>
+    </g>
+  </g>
+</svg>
